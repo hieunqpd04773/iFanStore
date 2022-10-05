@@ -1,0 +1,200 @@
+{
+  "category": [
+    {
+      "name": "iPhone",
+      "id": 1
+    },
+    {
+      "name": "Samsung",
+      "id": 2
+    },
+    {
+      "name": "Xiaomi",
+      "id": 3
+    },
+    {
+      "name": "Sony",
+      "id": 4
+    },
+    {
+      "name": "Pixel",
+      "id": 6
+    },
+    {
+      "name": "OPPO",
+      "id": 7
+    },
+    {
+      "name": "Nokia",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 12",
+      "price": "19000000",
+      "detail": "Sở hữu một vẻ bên ngoài sang trọng, bóng bẩy và lịch lãm là vậy, thế nhưng iPhone 12 256GB lại mang trong mình một sức mạnh cực kì khủng khiếp, vượt trội hơn tất cả những mẫu smartphone đang có mặt trên thị trường.",
+      "cate_id": "1",
+      "image": "iphone12-removebg-preview.png",
+      "id": 1
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": "19200000",
+      "detail": "Sở hữu một vẻ bên ngoài sang trọng, bóng bẩy và lịch lãm là vậy, thế nhưng Samsung S21 lại mang trong mình một sức mạnh cực kì khủng khiếp, vượt trội hơn tất cả những mẫu smartphone đang có mặt trên thị trường.",
+      "cate_id": "2",
+      "image": "samsungs21-removebg-preview.png",
+      "id": 2
+    },
+    {
+      "name": "Xiaomi K20",
+      "price": "1450000",
+      "detail": "Xiaomi Redmi K20 Pro sở hữu con chip mạnh mẽ nhất thế giới Android trong năm 2019 với Snapdragon 855 8 nhân 64-bit cùng 8 GB RAM và 128 GB bộ nhớ trong.",
+      "cate_id": "3",
+      "image": "xiaomi20-removebg-preview.png",
+      "id": 3
+    },
+    {
+      "name": "Sony Xperia 1 Mark III",
+      "price": "21000000",
+      "detail": "Xperia 1 III kết hợp tốc độ lấy nét tự động ấn tượng của model trước với hệ thống quang học mới lên tới 105 mm. Với màn hình OLED 4K HDR tuyệt đẹp có Tần số quét 120 Hz",
+      "cate_id": "4",
+      "image": "sony1iii-removebg-preview.png",
+      "id": 4
+    },
+    {
+      "name": "Google Pixel 5 128GB",
+      "price": "14600000",
+      "detail": "Google Pixel 5 chiếc smartphone mới ra mắt sở hữu nhiều nâng cấp về camera, thời lượng pin, nhưng hiệu năng không phải là ưu điểm.",
+      "cate_id": "6",
+      "image": "pixel5-removebg-preview.png",
+      "id": 5
+    },
+    {
+      "name": "Sony Xperia XZ2",
+      "price": "2499000",
+      "detail": "Với Xperia XZ2, Sony có vẻ như đã thoát khỏi ngoại hình phẳng, vuông vức của các phiên bản tiền nhiệm, đem đến vẻ đẹp với những đường nét cong và tinh tế hơn. Đây cũng là mẫu smartphone được trang bị màn hình HDR tỷ lệ 18:9, loa âm thanh nổi ở mặt trước; camera 19MP độc nhất với khả năng quay HDR",
+      "cate_id": "4",
+      "image": "thumb_XZ2_3-removebg-preview.png",
+      "id": 6
+    },
+    {
+      "name": "Sony Xperia 5 Nhật Likenew",
+      "price": "5499000",
+      "detail": "Với Xperia Ì, Sony có vẻ như đã thoát khỏi ngoại hình phẳng, vuông vức của các phiên bản tiền nhiệm, đem đến vẻ đẹp với những đường nét cong và tinh tế hơn. Đây cũng là mẫu smartphone được trang bị màn hình HDR tỷ lệ 18:9, loa âm thanh nổi ở mặt trước; camera 19MP độc nhất với khả năng quay HDR",
+      "cate_id": "4",
+      "image": "avt-xperia-5-blue-removebg-preview.png",
+      "id": 7
+    },
+    {
+      "name": "Nokia 2",
+      "id": 8
+    },
+    {
+      "name": "Samsung Galaxy S21 Ultra 5G",
+      "price": "21999000",
+      "detail": "Tổng thể Galaxy S21 Ultra mang đến sự sạng trọng và đẳng cấp cho người dùng nhờ sử dụng chất liệu cao cấp gồm kính và kim loại. Mặt lưng điện thoại được bảo vệ bởi kính cường lực Gorilla Glass 7 thế hệ mới nhằm hạn chế tình trạng chống trầy xước và va đập tốt hơn.",
+      "cate_id": "2",
+      "image": "samsungs21-removebg-preview.png",
+      "id": 9
+    },
+    {
+      "name": "Samsung Galaxy S22 5G",
+      "price": "25999000",
+      "detail": "Tổng thể Galaxy S22 mang đến sự sạng trọng và đẳng cấp cho người dùng nhờ sử dụng chất liệu cao cấp gồm kính và kim loại. Mặt lưng điện thoại được bảo vệ bởi kính cường lực Gorilla Glass 7 thế hệ mới nhằm hạn chế tình trạng chống trầy xước và va đập tốt hơn.",
+      "cate_id": "2",
+      "image": "avt-samsung-s22-hong-1-removebg-preview.png",
+      "id": 10
+    },
+    {
+      "name": "Samsung Galaxy Note20 Ultra 5G",
+      "price": "22999000",
+      "detail": "Tổng thể Galaxy Note20 mang đến sự sạng trọng và đẳng cấp cho người dùng nhờ sử dụng chất liệu cao cấp gồm kính và kim loại. Mặt lưng điện thoại được bảo vệ bởi kính cường lực Gorilla Glass 7 thế hệ mới nhằm hạn chế tình trạng chống trầy xước và va đập tốt hơn.",
+      "cate_id": "2",
+      "image": "thumb_Note20_Ultra5G-removebg-preview.png",
+      "id": 11
+    },
+    {
+      "name": "iPhone 11 64GB",
+      "price": "15490000",
+      "detail": "iPhone 11 vẫn sở hữu thiết kế tràn viền với “tai thỏ” giống iPhone X. Viền bezel phía trên và dưới cũng được làm gọn lại nhằm tối đa màn hình sử dụng. Cùng với đó, 4 góc của máy cũng được bo tròn nhẹ tạo cảm giác chắc chắn khi cầm trên tay. Mặt lưng iPhone 11 làm từ chất liệu kính nên rất sang trọng, tinh tế. Khác với các dòng iPhone trước, sản phẩm này sẽ có 6 màu bản bạc, vàng, xanh lá, trắng, đen đỏ.\n",
+      "cate_id": "1",
+      "image": "thumb_iP11_6-removebg-preview.png",
+      "id": 12
+    }
+  ],
+  "order": [
+    {
+      "fullname": "Nguyễn Quang Hiếu",
+      "address": "428 Tôn Đản. Đà Nẵng",
+      "email": "hieunqh@gmail.com",
+      "phone": "0374162121",
+      "status": "2",
+      "total": "102577000",
+      "note": "Giao nhanh",
+      "date": "2022-02-28",
+      "id": 1
+    },
+    {
+      "fullname": "Nguyễn Quang Hiếu",
+      "address": "428 Tôn Đản. Đà Nẵng",
+      "email": "hieunqh@gmail.com",
+      "phone": "6565465456",
+      "status": "2",
+      "total": "121030000",
+      "note": "Nhanh",
+      "date": "2022-03-03",
+      "id": 2
+    }
+  ],
+  "orderDetail": [
+    {
+      "order_id": 1,
+      "product_id": 11,
+      "product_name": "Samsung Galaxy Note20 Ultra 5G",
+      "quantity": "3",
+      "unti_price": 68997000,
+      "id": 1
+    },
+    {
+      "order_id": 1,
+      "product_id": 3,
+      "product_name": "Xiaomi K20",
+      "quantity": "3",
+      "unti_price": 4350000,
+      "id": 2
+    },
+    {
+      "order_id": 1,
+      "product_id": 5,
+      "product_name": "Google Pixel 5 128GB",
+      "quantity": "2",
+      "unti_price": 29200000,
+      "id": 3
+    },
+    {
+      "order_id": 1,
+      "product_id": 5,
+      "product_name": "Google Pixel 5 128GB",
+      "quantity": "2",
+      "unti_price": 29200000,
+      "id": 4
+    },
+    {
+      "order_id": 2,
+      "product_id": 2,
+      "product_name": "Samsung Galaxy S21",
+      "quantity": "6",
+      "unti_price": 115200000,
+      "id": 5
+    },
+    {
+      "order_id": 2,
+      "product_id": 3,
+      "product_name": "Xiaomi K20",
+      "quantity": "4",
+      "unti_price": 5800000,
+      "id": 6
+    }
+  ]
+}
